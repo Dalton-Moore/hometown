@@ -6,6 +6,7 @@ OCHRE #D77A23
 MAHOGANY #C34402
 POWDER BLUE #9FB4D1
 
+Dalton's palette
 LAPUIS LAZULI #39619F
 MOSS GREEN #838E4B
 VERMILLION #E53532
@@ -31,16 +32,12 @@ font-family: "Arima", system-ui;
     
 }
 
-.visit {
-    background-color: ;
-}
 
-visit-border {
+/* visit-border {
     margin: 40px 0px;
     border-radius: 50%;
     border: 5px solid #B4436C;
-    /* opacity: 50%; */
-}
+} */
 
 
 
